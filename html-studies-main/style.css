@@ -1,0 +1,48 @@
+#barber-chair{
+   width: 100%;
+}
+
+.main{
+    background-color: #acacac;
+    padding: 40px;
+}
+
+.main-title{
+     padding-left: 35px;
+}
+
+.center-title {
+    text-align: center;
+}
+.center-para {
+    text-align: center;
+}
+
+#missao {
+    font-size: 25px;
+}
+
+em \strong { 
+    color: #ff0000;
+}
+
+.beneficios {
+    background: white;
+    padding: 30px;
+}
+
+ul { 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 25%;
+}
+
+.itens-beneficios {
+    font-style:italic; 
+}
+
+#img-beneficios { 
+    width: 50%;
+    
+}
